@@ -1,0 +1,19 @@
+p{font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25;
+    color:black;}
+
+#direction{font-family:Arial, Helvetica, sans-serif 'Courier New';
+    font-size: 15;
+    color:black;
+    background-color: aquamarine;}
+
+#direction:hover{
+    color:red;
+    background-color: blueviolet;
+}
+.popov{
+    color: aquamarine;
+}
+.luka{
+    color: brown;
+}
