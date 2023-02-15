@@ -49,8 +49,8 @@ ul.navbar-horizontal {
     }
     ul.navbar-horizontal li {
     float:left; /* line up horizontally */
-    color:#000;
-    background-color:purple
+    color:crimson;
+    background-color:chartreuse;
     }
     ul.navbar-horizontal a {
     display:block;
