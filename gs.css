@@ -14,8 +14,18 @@ p{font-family: Georgia, 'Times New Roman', Times, serif;
 .POPOV{
     color: aquamarine;
 }
+.POPOV:hover{
+    color:cadetblue;
+    text-shadow: 2px 2px 4px blueviolet;
+    border-style: solid;
+}
 .LUKA{
     color: brown;
+}
+.LUKA:hover{
+    color:darkred;
+    text-shadow: 2px 2px 4px blueviolet;
+    border-style: solid;
 }
 table{
     border: 5px;
