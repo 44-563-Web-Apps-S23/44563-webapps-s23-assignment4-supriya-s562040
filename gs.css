@@ -1,4 +1,4 @@
-p{font-family: Georgia, 'Times New Roman', Times, serif;
+.speech{font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25;
     color:black;}
 
@@ -14,14 +14,17 @@ p{font-family: Georgia, 'Times New Roman', Times, serif;
 .POPOV{
     color: aquamarine;
 }
+.LUKA{
+    color: brown;
+}
+
+
 .POPOV:hover{
     color:cadetblue;
     text-shadow: 2px 2px 4px blueviolet;
     border-style: solid;
 }
-.LUKA{
-    color: brown;
-}
+
 .LUKA:hover{
     color:darkred;
     text-shadow: 2px 2px 4px blueviolet;
